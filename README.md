@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://github.com/Mus460"><img src="https://img.shields.io/github/followers/Mus460?style=flat-square&logo=github&logoColor=58a6ff&label=followers&labelColor=0d1117&color=1f6feb" alt="followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Mus460&style=flat-square&color=1f6feb&label=profile+views" alt="views"/>
   <!-- Isi link lalu hapus tanda komentar ini untuk menampilkan badge:
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" alt="Email"/></a>
